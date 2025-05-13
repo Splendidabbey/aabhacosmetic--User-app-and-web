@@ -3,12 +3,12 @@ import 'package:flutter_grocery/common/enums/app_mode_enum.dart';
 import 'images.dart';
 
 class AppConstants {
-  static const String appName = 'GroFresh';
+  static const String appName = 'Aabhacosmetic';
   static const double appVersion = 7.5;
   static const AppMode appMode = AppMode.release;
   static const String fontFamily = 'Poppins';
-  static const String baseUrl = 'YOUR_BASE_URL_HERE';
-  static const String webHostUrl = 'YOUR_BASE_URL_HERE';
+  static const String baseUrl = 'https://admin.aabhacosmetics.com';
+  static const String webHostUrl = 'https://aabhacosmetics.com';
   static const String configUri = '/api/v1/config';
   static const String bannerUri = '/api/v1/banners';
   static const String categoryUri = '/api/v1/categories';

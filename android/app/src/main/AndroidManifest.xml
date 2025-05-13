@@ -30,12 +30,12 @@
         android:icon="@mipmap/ic_launcher"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
-        android:label="GroFresh">
+        android:label="Aabhacosmetic">
         android:allowBackup="false"
         android:fullBackupContent="false"
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_MAP_KEY_HERE" />
+            android:value="AIzaSyCDNPTy9y0VoTlPN24UGq2Bf0-jLYqLPGI" />
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
